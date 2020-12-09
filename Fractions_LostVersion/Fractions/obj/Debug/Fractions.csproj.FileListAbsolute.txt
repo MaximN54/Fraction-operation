@@ -1,0 +1,7 @@
+E:\C#\Fractions_LostVersion\Fractions\bin\Debug\Fractions.exe.config
+E:\C#\Fractions_LostVersion\Fractions\bin\Debug\Fractions.exe
+E:\C#\Fractions_LostVersion\Fractions\bin\Debug\Fractions.pdb
+E:\C#\Fractions_LostVersion\Fractions\obj\Debug\Fractions.csprojAssemblyReference.cache
+E:\C#\Fractions_LostVersion\Fractions\obj\Debug\Fractions.csproj.CoreCompileInputs.cache
+E:\C#\Fractions_LostVersion\Fractions\obj\Debug\Fractions.exe
+E:\C#\Fractions_LostVersion\Fractions\obj\Debug\Fractions.pdb
